@@ -1,5 +1,5 @@
 # hello-world
-Github repository creation task
+Github repository creation job
 
 Hi Everyone,
 First commit to my test Repository.
