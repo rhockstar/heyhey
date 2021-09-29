@@ -1,8 +1,9 @@
 # hello-world
 Github repository creation job
 
-Hi Everyone,
+HeyHey,
+
 First commit to my test Repository.
 
 Thanks,
-R
+rhockstar
